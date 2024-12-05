@@ -1,8 +1,8 @@
-#Character Recognition Using CNN for OCR
+# Character Recognition Using CNN for OCR
 
 This project implements a Convolutional Neural Network (CNN) to recognize characters for Optical Character Recognition (OCR). The model is designed to classify handwritten or printed characters, providing a foundation for OCR systems.
 
-CNN Structure used :
+CNN Structure used :\n
     3 Convolution layer with 1 Dense Layer and Output dense layer to classify among the 35 Different Characters
 
 Prerequisites
